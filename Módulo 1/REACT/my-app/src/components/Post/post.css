@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 40px 60px;
+    gap: 40px;
+    align-items: center;
+}
+
+.main p {
+    width: 48%;
+}
